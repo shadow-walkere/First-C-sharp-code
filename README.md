@@ -16,8 +16,8 @@ They are char, int, float, string, boolean.
 ## Learning Points
 
 ### Declaring and Initializing variables
-to declare for example int number =3;
-to initialize for example string name = "Joe";
+to declare for example int number;
+to initialize for example int number=3;
 
 ### Retrieving and Setting variables 
 example
